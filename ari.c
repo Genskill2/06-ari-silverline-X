@@ -1,4 +1,5 @@
 #include <string.h>
+#include <cs50.h>
 string ari(string S)
 {
 int words=0;int chara=0;int sent=0;
