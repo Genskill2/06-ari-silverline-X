@@ -1,3 +1,4 @@
+#include <string.h>
 string ari(string S)
 {
 int words=0;int chara=0;int sent=0;
